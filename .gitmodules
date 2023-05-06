@@ -1,0 +1,3 @@
+[submodule "PwnAdventure3Servers-docker"]
+	path = PwnAdventure3Servers-docker
+	url = https://github.com/Zeglius/PwnAdventure3Servers-docker.git
